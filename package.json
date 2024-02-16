@@ -1,6 +1,10 @@
 {
   "name": "@feuerwolf0/ajs",
-  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feuerwolf0/ajs.git"
+  },
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
